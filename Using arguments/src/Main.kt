@@ -1,0 +1,1 @@
+fun main(args: Array<String>) = println("Hello, ${args.getOrElse(0) { "Name" }}!")
