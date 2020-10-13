@@ -1,0 +1,1 @@
+fun solution(s: MutableList<String>, str: String) = s.map { if (it == str) "Banana" else it }.toMutableList()
