@@ -1,3 +1,1 @@
-fun solution(first: List<Int>, second: List<Int>): MutableList<Int> {
-    // put your code here
-}
+fun solution(first: List<Int>, second: List<Int>): MutableList<Int> = (first + second).toMutableList()
