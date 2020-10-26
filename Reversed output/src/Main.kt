@@ -1,0 +1,1 @@
+fun main() = print(Array(2) { readLine() }.reversed().joinToString(separator = "\n"))
