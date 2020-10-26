@@ -1,0 +1,1 @@
+fun main() = println(Array(5) { readLine() }.joinToString(separator = " "))
