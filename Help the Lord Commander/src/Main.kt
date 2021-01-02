@@ -1,0 +1,1 @@
+println(beyondTheWall.find { !backFromTheWall.contains(it) } == null)
